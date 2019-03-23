@@ -1,9 +1,15 @@
-# This is it. 
+# A good README file
+What this project is about and what it does...
+Here's a link to the live, deployed site
 
-I hope you're sitting down. 
-Look at this amazing project consisting of three amazing pages. 
+## The reason for this project
+To get a passgrade in this project 
 
-## Why should I look at it
-There resources will change how you think about web development. 
+## The technology used 
+*HTML
+*CSS
 
+## Resources used 
+*Libraries 
+*Code sourced elsewhere e.g. Stackoverflow 
 
